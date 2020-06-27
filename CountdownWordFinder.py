@@ -107,17 +107,21 @@ def displayoutput(list, top10, maxLength):
     info.configure(text=res)
 
     colours = ['#FF9AA2', '#FFB7B2', '#FFDAC1', '#E2F0CB', '#B5EAD7', '#C7CEEA']
+    colourcounter = 5
 
     counter = 3
     for w in top10:
         # print(f'\n{w}: {word_dict[w]}')
-        colour = random.choice(colours)
+        colour = colours[colourcounter]
         a = Label(window, text=w, bg=colour, wraplength=500)
         a.grid(column=0, row=counter)
 
         b = Label(window, text=word_dict[w], bg=colour, wraplength=1500)
         b.grid(column=1, row=counter)
         counter += 1
+        colourcounter -= 1
+        if colourcounter == -1:
+            colourcounter = 5
 
 
 def getdefinition(word):
@@ -167,12 +171,12 @@ window.geometry('1920x1080')
 
 # create widgets
 button = Button(window, text="Run", command=runcalculation)
-button.grid(column=1, row=0)
+button.grid(column=0, row=0, columnspan=2)
 
 letters = Entry(window)
-letters.grid(column=1, row=1)
+letters.grid(column=0, row=1, columnspan=2)
 
 info = Label(window, text="Info will appear here")
-info.grid(column=1, row=2)
+info.grid(column=0, row=2, columnspan=2)
 
 window.mainloop()

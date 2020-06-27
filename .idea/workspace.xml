@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f32a34b3-f2d5-4d6b-a918-dc34d391025f" name="Default Changelist" comment="Completed algorithm">
-      <change afterPath="$PROJECT_DIR$/CountdownWordFinder.py" afterDir="false" />
+    <list default="true" id="f32a34b3-f2d5-4d6b-a918-dc34d391025f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountdownWordFinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/CountdownWordFinder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CountdownWordFinder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="134" column="17" lean-forward="true" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+            <state relative-caret-position="472">
+              <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -74,6 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Program.py" />
+        <option value="$PROJECT_DIR$/venv/setup.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/CountdownWordFinder.py" />
       </list>
     </option>
@@ -95,6 +96,11 @@
             <path>
               <item name="LongestOldEnglishWord" type="b2602c69:ProjectViewProjectNode" />
               <item name="LongestOldEnglishWord" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LongestOldEnglishWord" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LongestOldEnglishWord" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,7 +213,7 @@
       <workItem from="1590083316711" duration="6381000" />
       <workItem from="1590136945820" duration="754000" />
       <workItem from="1591556210846" duration="66000" />
-      <workItem from="1593272694938" duration="10215000" />
+      <workItem from="1593272694938" duration="11291000" />
     </task>
     <task id="LOCAL-00001" summary="Completed algorithm">
       <created>1590098923436</created>
@@ -216,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590098923436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Countdown function in new file.">
+      <created>1593283824011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593283824011</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17416000" />
+    <option name="totallyTimeSpent" value="18492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1257" extended-state="6" />
@@ -238,7 +251,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32981133" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32961375" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32981133" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32981133" />
@@ -257,10 +270,11 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Completed algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed algorithm" />
+    <MESSAGE value="Added Countdown function in new file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Countdown function in new file." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Countfown.coverage" NAME="Countfown Coverage Results" MODIFIED="1593283769673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Countfown.coverage" NAME="Countfown Coverage Results" MODIFIED="1593285184695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Program.coverage" NAME="Program Coverage Results" MODIFIED="1593273653052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -300,10 +314,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CountdownWordFinder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="134" column="17" lean-forward="true" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+        <state relative-caret-position="472">
+          <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

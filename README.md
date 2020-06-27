@@ -24,4 +24,4 @@ I also learnt some basic TKinter to create a GUI to show and input the letters r
 
 It also used a new dictionary which has definitions in the JSON file, this allowed me to return the word meanings as the progra is searching to the 10 longest, and therefor most obscure, permitable words.
 
-![GUI Screenshot](https://github.com/George9Waller/LongestOldEnglishWord/screenshot.png)
+![GUI Screenshot](https://github.com/George9Waller/LongestOldEnglishWord/blob/master/screenshot.png)

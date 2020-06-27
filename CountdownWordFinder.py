@@ -82,11 +82,11 @@ def visualstringlist(list):
     string = ""
     if len(list) == 1:
         return list[0]
-    for c in list:
-        if c == list[len(list) - 1]:
-            string = string + " and " + c
+    for c in range(0, len(list)):
+        if c == len(list) - 1:
+            string = string + " and " + list[c]
         else:
-            string = string + " " + c + ","
+            string = string + " " + list[c] + ","
     return string
 
 

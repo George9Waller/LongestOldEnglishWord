@@ -58,7 +58,7 @@ def visualstringlist(list):
     return string
 
 
-# Prints the output to the colsole in a readable manner
+# Prints the output to the console in a readable manner
 def displayoutput(list):
     """
     :param list: a list of words as the result from checking to be presented to the user

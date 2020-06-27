@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32a34b3-f2d5-4d6b-a918-dc34d391025f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dictionary.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountdownWordFinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/CountdownWordFinder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CountdownWordFinder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+            <state relative-caret-position="-690">
+              <caret line="83" column="22" lean-forward="true" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -96,11 +96,6 @@
             <path>
               <item name="LongestOldEnglishWord" type="b2602c69:ProjectViewProjectNode" />
               <item name="LongestOldEnglishWord" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LongestOldEnglishWord" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LongestOldEnglishWord" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +208,7 @@
       <workItem from="1590083316711" duration="6381000" />
       <workItem from="1590136945820" duration="754000" />
       <workItem from="1591556210846" duration="66000" />
-      <workItem from="1593272694938" duration="11291000" />
+      <workItem from="1593272694938" duration="12970000" />
     </task>
     <task id="LOCAL-00001" summary="Completed algorithm">
       <created>1590098923436</created>
@@ -229,22 +224,35 @@
       <option name="project" value="LOCAL" />
       <updated>1593283824011</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated UI + bugs">
+      <created>1593285228666</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593285228666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="corrected bug with with visualisation of list contents depending on repeated characters.">
+      <created>1593299679459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593299679459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18492000" />
+    <option name="totallyTimeSpent" value="20171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1257" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16999003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16999003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961375" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20600858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -254,9 +262,9 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32961375" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32981133" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32981133" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32961375" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32981133" />
-      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32981133" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.32961375" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,11 +279,13 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Completed algorithm" />
     <MESSAGE value="Added Countdown function in new file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Countdown function in new file." />
+    <MESSAGE value="updated UI + bugs" />
+    <MESSAGE value="corrected bug with with visualisation of list contents depending on repeated characters." />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected bug with with visualisation of list contents depending on repeated characters." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Countfown.coverage" NAME="Countfown Coverage Results" MODIFIED="1593285184695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Program.coverage" NAME="Program Coverage Results" MODIFIED="1593273653052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Countfown.coverage" NAME="Countfown Coverage Results" MODIFIED="1593299703626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LongestOldEnglishWord$Program.coverage" NAME="Program Coverage Results" MODIFIED="1593285737041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="uml://Python/#/Users/georgewaller/PycharmProjects/LongestOldEnglishWord/Program.py">
@@ -326,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CountdownWordFinder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="123" column="29" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+        <state relative-caret-position="-690">
+          <caret line="83" column="22" lean-forward="true" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

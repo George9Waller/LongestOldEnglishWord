@@ -26,4 +26,4 @@ It also used a new dictionary which has definitions in the JSON file, this allow
 
 [![Run on Repl.it](https://repl.it/badge/github/George9Waller/CountdownWordSolver)](https://repl.it/@GeorgeWaller/CountdownWordSolver)
 
-![GUI Screenshot](https://github.com/George9Waller/LongestOldEnglishWord/blob/master/screenshot.png)
+![GUI Screenshot](https://github.com/George9Waller/LongestWord--CountdownGUI/blob/master/screenshot.png)

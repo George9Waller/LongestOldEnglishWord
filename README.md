@@ -2,6 +2,8 @@
 An [algorithm](https://github.com/George9Waller/LongestOldEnglishWord/blob/master/Program.py) to find the longest word in a reduced alphabet: 
 
 [![GitHub license](https://img.shields.io/github/license/George9Waller/LongestWord--CountdownGUI.svg)](https://github.com/George9Waller/LongestWord--CountdownGUI/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
 
 ### ---Algorithm brief---
@@ -29,3 +31,5 @@ It also used a new dictionary which has definitions in the JSON file, this allow
 [![Run on Repl.it](https://repl.it/badge/github/George9Waller/CountdownWordSolver)](https://repl.it/@GeorgeWaller/CountdownWordSolver)
 
 ![GUI Screenshot](https://github.com/George9Waller/LongestWord--CountdownGUI/blob/master/screenshot.png)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)

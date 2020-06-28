@@ -1,6 +1,8 @@
 # LongestOldEnglishWord
 An [algorithm](https://github.com/George9Waller/LongestOldEnglishWord/blob/master/Program.py) to find the longest word in a reduced alphabet: 
 
+[![GitHub license](https://img.shields.io/github/license/George9Waller/LongestWord--CountdownGUI.svg)](https://github.com/George9Waller/LongestWord--CountdownGUI/blob/master/LICENSE)
+
 
 ### ---Algorithm brief---
 
